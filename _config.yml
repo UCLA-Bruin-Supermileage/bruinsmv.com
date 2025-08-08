@@ -1,0 +1,7 @@
+title: "Bruin SMV"
+theme: null  # Disable GitHub's default theme
+markdown: kramdown
+
+# Optional: Tell Jekyll to include custom directories
+include:
+  - _layouts
