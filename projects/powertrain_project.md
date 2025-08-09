@@ -21,8 +21,8 @@ nav: project
     <div class="container">
         <div class="row" style="justify-content: center;">
             <div class="col-lg-8 ftco-animate" style="max-width: 80%;" markdown="1">
-            
-    ![](/images/power_distr.png)
+
+![](/images/power_distr.png)
 
 Power Distribution Board
 ------------------------
@@ -64,8 +64,7 @@ We prototyped a board to add regen but ultimately did not use it during competit
 
 With regen implemented, we can obtain efficiency gains of a few percent. This may not sound significant, but every bit helps in the heat of competition.
 
-
-            </div>
-        </div>
-    </div>
+</div>
+</div>
+</div>
 </section> <!-- .section -->
