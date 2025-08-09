@@ -21,6 +21,7 @@ nav: project
     <div class="container">
         <div class="row" style="justify-content: center;">
             <div class="col-lg-8 ftco-animate" style="max-width: 80%;" markdown="1">
+            
     ![](/images/power_distr.png)
 
 Power Distribution Board
@@ -62,6 +63,8 @@ Traditionally we've used a hydraulic braking system, but last year we began test
 We prototyped a board to add regen but ultimately did not use it during competition due to time constraints. However, we successfully implemented regen on an electric scooter as a test bed after gathering feedback from design reviews. This test bed doesn't model our car, but it provides a preliminary rig for proof of concept.
 
 With regen implemented, we can obtain efficiency gains of a few percent. This may not sound significant, but every bit helps in the heat of competition.
+
+
             </div>
         </div>
     </div>
